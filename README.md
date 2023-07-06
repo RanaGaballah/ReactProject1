@@ -1,6 +1,6 @@
 # ReactProject1
-Cyborg Website
-Welcome to ReactProject1! This repository (https://github.com/RanaGaballah/ReactProject1.git) contains a React project that focuses on building a frontend website using React.js and the Vite build tool.
+
+Welcome to Cyborg Website, This repository (https://github.com/RanaGaballah/ReactProject1.git) contains a React project that focuses on building a frontend website using React.js and the Vite build tool with Bootstrap.
 
 ## Table of Contents
 - [Features](#features)

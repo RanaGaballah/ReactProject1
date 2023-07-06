@@ -1,0 +1,89 @@
+
+/* 
+---------------------------------------------
+Top Streamers Style
+--------------------------------------------- 
+*/
+
+.top-streamers img{
+    max-width: 46px;
+    border-radius: 50%;
+    margin-right: 15px;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+  .top-streamers ul li {
+    display: block;
+    
+    border-bottom: 1px solid #424242;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    margin-left: 50px;
+   
+  }
+  
+  .top-streamers ul li:last-child {
+    border-bottom: none;
+    padding-left: 50px;
+    margin-left: 50px;
+  }
+  
+  .top-streamers ul li span {
+    float: left;
+    font-size: 15px;
+    color: #fff;
+    font-weight: 700;
+    padding-top: 12px;
+    margin-right: 10px;
+  }
+  
+  .top-streamers ul li h6 {
+    display: inline;
+    font-size: 14px;
+    color: #ec6090;
+    
+   
+    font-weight: 400;
+  }
+  
+  .top-streamers ul li h6 i {
+    color: #fff;
+    background-color: #81294a;
+    border-radius: 50%;
+    font-size: 12px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    
+    padding-left: 50px;
+    margin-left: 50px;
+  }
+  
+  .top-streamers ul li .main-button {
+    float: right;
+  }
+  
+  .top-streamers ul li .main-button  {
+    padding: 10px 30px;
+  }
+
+  .heading-section h4 span {
+    color: #fff;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+.heading-section h4 {
+    color: #ec6090;
+    font-size: 34px;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-weight: 700;
+}

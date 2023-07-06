@@ -1,0 +1,57 @@
+/* 
+---------------------------------------------
+Start Stream Style
+--------------------------------------------- 
+*/
+
+.start-stream .heading-section {
+  margin-top: 60px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.start-stream .item {
+  padding: 30px;
+  border: 1px solid #444;
+  border-radius: 23px;
+}
+
+.start-stream .item h4 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.start-stream .main-button {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.start-stream .heading-section span {
+  color: var(--color-light);
+}
+
+.icon img {
+  max-width: 60px;
+  border-radius: 50%;
+}
+
+p{
+    color: var( --color-gray);
+}
+
+p a{
+    text-decoration: none;
+    color: var(--color-light);
+    cursor: pointer;
+ 
+}
+p a:hover{
+    color: var(--color-primary);
+}
+
+.main-button a{
+    text-decoration: none;
+    font-size: 18px;
+}

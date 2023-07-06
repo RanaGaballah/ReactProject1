@@ -1,0 +1,115 @@
+/* 
+---------------------------------------------
+Live Stream Style
+--------------------------------------------- 
+*/
+ 
+  .live-stream .item {
+    margin-bottom: 30px;
+  }
+  
+  .live-stream .thumb {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  
+  .live-stream .thumb img {
+    border-radius: 23px;
+    width: 100%;
+      overflow: hidden;
+  }
+  
+  
+  .live-stream .thumb:hover .hover-effect {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .live-stream .hover-effect {
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.4s;
+  }
+  
+  .live-stream .hover-effect .live a {
+    position: absolute;
+    background-color: rgba(236, 96, 144, 0.9);
+    padding: 5px 10px;
+    border-radius: 23px;
+    color: #fff;
+    font-size: 14px;
+    right: 15px;
+    top: 15px;
+    text-decoration: none;
+  }
+  
+  .live-stream .hover-effect ul {
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .live-stream .hover-effect ul li {
+    display: inline-block;
+    margin: 5px 5px;
+  }
+  
+  .live-stream .hover-effect ul li a {
+    background-color: rgba(236, 96, 144, 0.9);
+    padding: 10px 10px;
+    border-radius: 23px;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    
+  }
+  
+  .live-stream .avatar img {
+    margin-right: 15px;
+  }
+  
+  .live-stream span i {
+    color: #fff;
+    background-color: #ec6090;
+    border-radius: 50%;
+    font-size: 12px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 3px;
+  }
+  
+  .live-stream span {
+    font-size: 18px;
+    color: #ffffff;
+  }
+  
+  .live-stream .down-content h4 {
+    margin-top: 8px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 61px;
+  }
+  
+  .live-stream .main-button {
+    text-align: center;
+    margin-top: 3px;
+  }
+  
+  .live-stream .heading-section h4 span{
+      color: var(--color-light);
+      font-size: 40px;
+  
+  }
+  
+  .avatar-img{
+      max-width: 46px; border-radius: 50%; float: left;
+  }
+  
+  .icon{
+      color: #fff;
+  }
